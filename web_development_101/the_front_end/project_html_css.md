@@ -95,6 +95,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this list
+*[Teboho Monkhi's solution (difficult)(https://github.com/tmonkhi/google-homepage - [view in Browser}.(https://tmonkhi.github.io/google-homepage/)
 * [singodimejo's Solution (Easy)](https://github.com/singodimejo/google-homepage) - [View in Browser](https://singodimejo.github.io/google-homepage)
 * [cam9921's Solution (Easy)](https://github.com/cam9921/google-homepage) - [View in Browser](https://cam9921.github.io/google-homepage/)
 * [Priya Aggarwal's Solution (Easy)](https://github.com/pa-aggarwal/google-homepage) - [View in Browser](https://pa-aggarwal.github.io/google-homepage/)
@@ -3896,15 +3897,15 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Marvellous' Solution (Easy)](https://github.com/mskavalo/google-homepage)
 * [menomenonkwan's Solution (Easy)](https://github.com/menomenonkwan/google-homepage) - [View in Browser](https://menomenonkwan.github.io/google-homepage/)
 * [Baseline Alpha's Solution (Easy)](https://github.com/baselinealpha/google-homepage) - [View in Browser](https://baselinealpha.github.io/google-homepage/)
-* [onagova's Solution (Easy)](https://github.com/onagova/google-homepage) - [View in Browser](https://onagova.github.io/google-homepage/)
+* [onagova's Solution (Easy)](https://github.chttps://https://github.com/tmonkhi/google-homepage)om/onagova/google-homepage) - [View in Browser](https://onagova.github.io/google-homepage/)
 * [onagova's Solution (Difficult)](https://github.com/onagova/google-search-results-page) - [View in Browser](https://onagova.github.io/google-search-results-page/)
 * [Sacchan9's Solution (Easy)](https://github.com/sacchan9/google-homepage) - [View in Browser](https://sacchan9.github.io/google-homepage/)
 * [Kingsley Ezenwaka's Solution (Easy)](https://github.com/khay9yne/google-homepage) - [View in Browser](https://khay9yne.github.io/google-homepage/)
 * [kb12233's Solution (Easy)](https://github.com/kb12233/google-homepage) - [View in Browser](https://kb12233.github.io/google-homepage/)
 * [Samuthe's Solution](https://github.com/Samuthe/Odin-Projects.git)
 * [joonyoungleeduke's Solution (Easy)](https://github.com/joonyoungleeduke/google-homepage) - [View in Browser](https://joonyoungleeduke.github.io/google-homepage/)
-* [Baseline Alpha's Solution (Difficult)](https://github.com/baselinealpha/google-search-results) - [View in Browser](https://baselinealpha.github.io/google-search-results/)
-* [nmukespence's Solution (Easy)](https://github.com/nmukespence/google-homepage) - [View in Browser](https://nmukespence.github.io/google-homepage/)
+* [Baseline Alpha's Solution (Difficult)](https://github.com/baselinealpha/goohttps://https://github.com/tmonkhi/google-homepage)gle-search-results) - [View in Browser](https://baselinealpha.github.io/google-search-results/)
+* [nmukespence's Solution (Easy)](https://github.com/nmukespence/google-hhttps://https://github.com/tmonkhi/google-homepage)omepage) - [View in Browser](https://nmukespence.github.io/google-homepage/)
 * [Khurram Ali's Solution (Easy)](https://github.com/destocot/google-homepage) - [View in Browser](https://destocot.github.io/google-homepage/)
 * [Khurram Ali's Solution (Difficult)](https://github.com/destocot/google-resultpage) - [View in Browser](https://destocot.github.io/google-resultpage/)
 * [Rebecca Hawkensons Solution (Easy)](https://github.com/rhawkenson/google-homepage) - [View in Browser](https://rhawkenson.github.io/google-homepage/)
